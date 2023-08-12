@@ -1,6 +1,6 @@
 # UniTak3D Direct Drive Filament Runout Mount
 
-<img src="./IMG_1079.png" alt="Printed example in yellow" height="400" style="float:right;"/>
+<img src="./IMG_1079.jpg" alt="Printed example in yellow" height="400" style="float:right;"/>
 
 This is the 3D object that lets you mount the Filament runout sensor with the [UniTak3D Ender 3 Direct Drive Upgrade Conversion Bracket](https://a.co/d/hVOHaCw).
 
